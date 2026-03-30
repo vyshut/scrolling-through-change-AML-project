@@ -21,7 +21,8 @@ Note: We may expand beyond the 2016 United States presidential election to inclu
 - Split: 70% train, 10% validation, 20% test (by username)
 
 ## Files
-- Prototype_Writeup
+- Prototype_WriteUp
 - Prototype_Code.py
 - Prototype_captions.csv (dataset)
-- Prototype_blog.md
+- Prototype_Blog.md
+- Prototype_Literature.md
